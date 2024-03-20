@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm G.Hemanth Tigga</h1>
 <h3 align="center">MERN stack Developer and Java Programmer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hemanthtigga&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthtigga" /> </p>
-<img align="left" alt="Coding" width="150" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="left" alt="Coding" width="225" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 <h5 >
 
 👨‍🎓 To be grad with a BTech in Computer Science. (2025)
