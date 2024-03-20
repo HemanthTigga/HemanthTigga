@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **hemumani73@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/115V975ump-3opCu0jUJ95e4wrDU9go2m](https://drive.google.com/drive/u/0/folders/115V975ump-3opCu0jUJ95e4wrDU9go2m)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/115V975ump-3opCu0jUJ95e4wrDU9go2m)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
