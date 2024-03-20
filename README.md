@@ -37,7 +37,8 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/115V975ump-3opCu0jUJ95e4wrDU9go2m)
 
-<h3 align="left">Connect with me:</h3>
+
+# Connect With Me:
 <p align="left">
 <a href="https://linkedin.com/in/g hemanth tigga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g hemanth tigga" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/g.hemanth tigga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="g.hemanth tigga" height="30" width="40" /></a>
