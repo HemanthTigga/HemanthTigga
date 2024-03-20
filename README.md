@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="1000" src="https://www.skwigly.co.uk/wp-content/uploads/2017/02/march2017.gif">
+<img align="center" alt="Coding" width="100%" src="https://www.skwigly.co.uk/wp-content/uploads/2017/02/march2017.gif">
 <h1 align="center">Hi 👋, I'm G.Hemanth Tigga</h1>
 <h3 align="center">MERN stack Developer and Java Programmer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hemanthtigga&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthtigga" /> </p>
