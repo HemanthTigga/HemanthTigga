@@ -40,7 +40,7 @@
 
 # Connect With Me:
 <p align="left">
-<a href="https://linkedin.com/in/g hemanth tigga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g hemanth tigga" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/g-hemanth-tigga-19baa7228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g hemanth tigga" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/g.hemanth tigga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="g.hemanth tigga" height="30" width="40" /></a>
 <a href="https://medium.com/@hemanth0479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hemanth0479" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hemanth0479" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hemanth0479" height="30" width="40" /></a>
