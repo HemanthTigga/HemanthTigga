@@ -1,5 +1,7 @@
 
 <img align="center" alt="Coding" width="100%" src="https://www.skwigly.co.uk/wp-content/uploads/2017/02/march2017.gif">
+
+
 <h1 align="center">Hi 👋, I'm G.Hemanth Tigga</h1>
 <h3 align="center">MERN stack Developer and Java Programmer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hemanthtigga&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthtigga" /> </p>
@@ -17,8 +19,9 @@
 💪 C++ programmer, Blogger, and a Constant Learner.</h5>
 <br>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HemanthTigga&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthtigga" alt="hemanthtigga" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -51,8 +54,8 @@
 
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanthtigga&show_icons=true&locale=en&layout=compact" alt="hemanthtigga" /></p>
+![](https://github-readme-stats.vercel.app/api?username=HemanthTigga&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HemanthTigga&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthTigga&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanthtigga&show_icons=true&locale=en" alt="hemanthtigga" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthtigga&" alt="hemanthtigga" /></p>
+<img align="center" alt="Coding" width="100%" src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572">
