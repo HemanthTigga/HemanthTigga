@@ -59,4 +59,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HemanthTigga&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthTigga&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img align="center" alt="Coding" width="100%" src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572">
+<img align="center" alt="Coding" width="100%" src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572">
